@@ -1,0 +1,49 @@
+{
+  "contextParam": {
+    "partnerID": "HDFCBANK",
+    "channelID": "ADOBE",
+    "productName": "PL",
+    "partnerJourneyID": "210220261234567890",
+    "bankJourneyID": "20260222738291054"
+  },
+  "responseString": {
+    "OfferDemogDetails": {
+      "firstName": "Arjun",
+      "middleName": "Sanjay",
+      "lastName": "Mehta",
+      "address1": "702, Lodha Bellissimo",
+      "address2": "Apollo Mills Compound, Mahalaxmi",
+      "address3": "Near Race Course",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "zipCode": "400034",
+      "country": "India",
+      "gender": "M",
+      "dateOfBirth": "15-06-1991",
+      "emailAddress": "arjun.mehta@techcorp.in",
+      "officeAddress1": "Infosys SEZ, Tower 3, 12th Floor",
+      "officeAddress2": "Hinjewadi IT Park, Phase 1",
+      "officeAddress3": "Rajiv Gandhi Infotech Park",
+      "officeCity": "Pune",
+      "officeZipCode": "411057",
+      "mobileNo": "91762045839",
+      "monthlyIncome": "195000",
+      "profession": "IT Professional",
+      "residenceType": "Owned",
+      "offerType": "LG_HNW_PL_PQ_NB_FEB26",
+      "offerAmount": "1800000.00",
+      "tenure": "36",
+      "rateOfInterest": "9.70%",
+      "kycFlag": "Y",
+      "custType": "F",
+      "reltype": "AUS",
+      "accountNumber": "XXXXXX7184",
+      "customerID": "XXXX639"
+    },
+    "status": {
+      "responseCode": "200",
+      "errorCode": "0",
+      "errorDesc": "Success"
+    }
+  }
+}
