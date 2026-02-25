@@ -1,0 +1,23 @@
+{
+  "contextParam": {
+    "partnerID": "HDFCBANK",
+    "channelID": "ADOBE",
+    "productName": "PL",
+    "partnerJourneyID": "160120221234567890",
+    "bankJourneyID": "20211601234567890"
+  },
+  "responseString": {
+    "acknowledgementId": "ACK1234567890",
+    "applicationNumber": "022567104379",
+    "submissionStatus": "SUCCESS",
+    "submissionMessage": "Your application has been submitted successfully.",
+    "vkycRequired": true,
+    "vkycLink": "https://hdfc.com/vkyc/start",
+    "nextStepMessage": "Your uploaded KYC documents will be verified. Our representative will get in touch with you soon."
+  },
+  "status": {
+    "responseCode": "200",
+    "errorCode": "0",
+    "errorDesc": "Success"
+  }
+}
